@@ -36,7 +36,7 @@ Customer churn is a critical challenge for businesses, as retaining customers is
    - Create new features if needed
 
 4. **Model Building & Evaluation**
-   - Train multiple models (Logistic Regression, Random Forest, XGBoost, etc.)
+   - Train multiple models (Logistic Regression, Random Forest, )
    - Use performance metrics such as Accuracy, Precision, Recall, F1-score, and AUC-ROC
    - Interpret model results using SHAP/LIME
 
